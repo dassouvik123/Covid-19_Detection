@@ -1,3 +1,4 @@
 # Covid-19 detection using ANN
-This project helps us to detect covid-19 with the help of X-ray and CT scan image datasets . 
-Also we have proposed a Modified Resnet with an accuracy of 98%.
+The COVID-19 virus is spreading rapidly in every country. Who declared it a global pandemic in March,2020.As no specific diagnosis is available early detection of the virus is necessary.Different techniques have been developed by different researchers and scholars . Many techniques have been developed but very few came out with adequate results. Till date there are only a few of them that are being used in a wide aspect namely real-time reverse transcription-polymerase chain reaction (RT-PCR), computed tomography (CT), and X-ray .
+In this paper we have modified the  Residual block of Residual Net 18  by adding BottleNeck architecture with it and trained the model with publicly available popular X-Ray dataset and achieved an impressive result, with an accuracy of 98.07%. To prove the effectiveness of modified ResNet-18 we have compared its performance with some pretrained models and got an impressive result.
+
